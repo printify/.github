@@ -9,7 +9,7 @@ We are headquartered in Latvia 🇱🇻 with close to 700 team members. Printify
 [![Printify Hackathon](https://img.youtube.com/vi/gwEorA-wOkU/0.jpg)](https://www.youtube.com/watch?v=gwEorA-wOkU)
 
 
-Our stack varies by team but overall it’s PHP 8.0–8.2, Symfony 5 and 6, some Laravel 8 and 9, NestJS, Angular, MongoDB, MySQL, PostgreSQL, Redis, Kubernetes, Jenkins, GitHub Workflows, AWS, and a bit of experimental Event Sourcing.
+Our stack varies by team but overall it’s PHP 8.1–8.3, Symfony 5 and 7, some Laravel 9+, NestJS, Angular, MongoDB, MySQL, PostgreSQL, Redis, Kubernetes, Jenkins, GitHub Actions, AWS, and a bit of experimental Event Sourcing.
 
 
 _Eager to learn more about Printify?_
